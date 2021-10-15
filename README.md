@@ -1,6 +1,8 @@
 # Osteoarthritis & Stroke: A Bidirectional Mendelian Randomization Study
 Huanling Zhao, UG1, Jiahao Zhu, UG1, Li Ju, PhD1, Lingling Sun, PhD2, Lap Ah TSE, PhD3, Sanjay Kinra, PhD4, Yingjun Li, PhD1,*
+
 Corresponding author: Yingjun Li
+
 If you have questions or would like to discuss any of this: 2016034036@hmc.edu.cn
 
 #Summary statistics and data from the following studies were used in our work
